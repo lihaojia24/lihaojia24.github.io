@@ -1,1 +1,4 @@
+name: Lihaojia Home Page
+markdown: kramdown
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
