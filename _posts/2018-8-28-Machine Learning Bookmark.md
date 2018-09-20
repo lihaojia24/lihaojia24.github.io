@@ -10,3 +10,6 @@ https://blog.csdn.net/zouxy09/article/details/8537620
 
 ## Principal components analysis(PCA)
 https://www.cnblogs.com/hadoop2015/p/7419087.html
+
+## Softmax & CrossEntropy
+https://zhuanlan.zhihu.com/p/27223959
