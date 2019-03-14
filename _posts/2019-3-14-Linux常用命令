@@ -1,0 +1,12 @@
+---
+title: Linux常用命令
+key: Linux
+tags: Linux command
+---
+
+### 查看文件个数
+ls -l |grep "^-"|wc -l
+
+<!--more-->
+### 输出重定向
+Command 2>&1 | tee xx.log
