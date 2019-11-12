@@ -1,5 +1,5 @@
 ---
-title: RuntimeError: derivative for [variable] is not implemented
+title: RuntimeError derivative for [variable] is not implemented
 key: RuntimeError
 tags: pytorch errorFix
 ---

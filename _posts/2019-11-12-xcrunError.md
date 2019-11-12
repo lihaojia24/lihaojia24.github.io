@@ -1,5 +1,5 @@
 ---
-title: xcrun: error: invalid active developer path
+title: xcrun error invalid active developer path
 key: xcrun
 tags: MaxOS errorFix
 ---
