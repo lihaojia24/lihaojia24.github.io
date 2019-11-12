@@ -1,7 +1,7 @@
 ---
 title: RuntimeError: derivative for [variable] is not implemented
-key: pytorch issue
-tags: pytorch issue
+key: RuntimeError
+tags: pytorch errorFix
 ---
 
 参考github issue：

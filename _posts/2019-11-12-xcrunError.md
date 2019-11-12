@@ -1,7 +1,7 @@
 ---
 title: xcrun: error: invalid active developer path
-key: errorFix
-tags: MaxOS
+key: xcrun
+tags: MaxOS errorFix
 ---
 
 ```shell
